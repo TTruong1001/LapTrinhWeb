@@ -1,0 +1,33 @@
+﻿@model _19T1021273.Webs.Controllers.Person
+@{
+    ViewBag.Title = "Input";
+    
+}
+
+<h2>Person</h2>
+<form action=" ~/Test/Input" method="post"
+
+                <label class="control-label col-sm-2" for="text">Name:</label>
+                
+                    <input type="text"
+                           class="form-control"
+                           id="Name"
+                           name="Name"
+                           value="@Model.Name" >
+            
+                <label class="control-label col-sm-2" for="number">Salary:</label>
+                    <input type="text"
+                           class="form-control"
+                           id="Salary"
+                           name="Salary"
+                           value="@Model.Salary"
+                            
+                <label class="control-label col-sm-2" for="number">BirthDate:</label>
+                    <input type="text"
+                           class="form-control"
+                           id="BirthDate"
+                           name="BirthDate"
+                           value="@Model.BirthDate ">
+    
+         <button type="submit" class="btn btn-primary"> submit</button>
+</form>

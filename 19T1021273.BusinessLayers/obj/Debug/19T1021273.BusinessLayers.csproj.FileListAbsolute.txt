@@ -1,0 +1,11 @@
+E:\HK2\LaptrinhWeb\19T1021273\19T1021273.BusinessLayers\bin\Debug\19T1021273.BusinessLayers.dll
+E:\HK2\LaptrinhWeb\19T1021273\19T1021273.BusinessLayers\bin\Debug\19T1021273.BusinessLayers.pdb
+E:\HK2\LaptrinhWeb\19T1021273\19T1021273.BusinessLayers\bin\Debug\19T1021273.DataLayers.dll
+E:\HK2\LaptrinhWeb\19T1021273\19T1021273.BusinessLayers\bin\Debug\19T1021273.DomainModels.dll
+E:\HK2\LaptrinhWeb\19T1021273\19T1021273.BusinessLayers\bin\Debug\19T1021273.DataLayers.pdb
+E:\HK2\LaptrinhWeb\19T1021273\19T1021273.BusinessLayers\bin\Debug\19T1021273.DomainModels.pdb
+E:\HK2\LaptrinhWeb\19T1021273\19T1021273.BusinessLayers\obj\Debug\19T1021273.BusinessLayers.csproj.AssemblyReference.cache
+E:\HK2\LaptrinhWeb\19T1021273\19T1021273.BusinessLayers\obj\Debug\19T1021273.BusinessLayers.csproj.CoreCompileInputs.cache
+E:\HK2\LaptrinhWeb\19T1021273\19T1021273.BusinessLayers\obj\Debug\19T1021273.BusinessLayers.csproj.CopyComplete
+E:\HK2\LaptrinhWeb\19T1021273\19T1021273.BusinessLayers\obj\Debug\19T1021273.BusinessLayers.dll
+E:\HK2\LaptrinhWeb\19T1021273\19T1021273.BusinessLayers\obj\Debug\19T1021273.BusinessLayers.pdb
